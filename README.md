@@ -36,7 +36,7 @@
 
 <p align="center"><b>Social</b></p>
 <p align="center">
-  <a aria-label="CarDavMart" href="https://t.me/carldavmart">
+  <a aria-label="CarDavMart" href="https://t.me/atlasglory">
 	<img src="https://img.shields.io/badge/Telegram Chat-black%20hat-blueviolet" alt="">
   </a>
 </p>
