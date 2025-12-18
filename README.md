@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="carldavmart-banner.jpg" alt="Hacking Banner" width="100%">
+  <img src="carldavmartbanner.jpg" alt="Hacking Banner" width="100%">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - **Motto:** "In a world full of firewalls, be the exploit."
 
 <p align="center">
-  <img src="carldavmart-bannerskull.jpg" alt="Cyber Skull" width="300">
+  <img src="carldavmartbannerskull.jpg" alt="Cyber Skull" width="300">
 </p>
 
 ## Streak & Contributions (Replacement for Achievements)
