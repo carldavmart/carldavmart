@@ -1,50 +1,53 @@
-<p align="center"><br>
-  <img width="400px" src="calavera02.png">
-</p>
-
-<!--<h1 align="center">D A V M A R T</h1>-->
-
-<p align="center">¡Hack the world, baby!</p>
-
-
 
 <p align="center">
-  <a aria-label="CarDavMart" href="#">
-	<img src="" alt="">
+  <img src="carldavmart-banner.jpg" alt="Hacking Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=00FF00&size=25&center=true&vCenter=true&width=600&lines=¡Hack+the+World,+Baby!;" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacker-Ethical-green?style=for-the-badge&logo=terminal" alt="Ethical Hacker">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Tool-Kali%20Linux-purple?style=for-the-badge&logo=kalilinux" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Status-Online-red?style=for-the-badge&logo=discord" alt="Online">
+</p>
+
+## About Me
+
+- **Who am I?** Just a passionate about ethical hacking, cybersecurity, and open-source contributions.
+- - **Skills:** 
+  - Languages: Python, Rust, C/C++, C#, Assembly, java, kotlin, nodejs, golang, perl, ruby
+  - Development: Full-stack, Android Dev, Game Dev (Unity, Godot), CLI, GUI for Wndows, Linux.
+  - Security: Red-team, blue-team, Malware dev, Reversing
+  - Other: CI/CD, UI/UX
+- **Fun Fact:** All my ex-girlfriends left me because I spent more time with my code than with them… Turns out “I code a lot” is not a love language. ☕💻
+- **Motto:** "In a world full of firewalls, be the exploit."
+
+<p align="center">
+  <img src="carldavmart-bannerskull.jpg" alt="Cyber Skull" width="300">
+</p>
+
+## Streak & Contributions (Replacement for Achievements)
+
+Since the old achievements trophy system isn't working, I've switched to streak stats and contribution graphs for a fresh, dynamic look.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carldavmart&theme=hacker&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carldavmart&theme=github_dark" alt="Profile Details" />
+</p>
+
+## Social & Contact
+
+<p align="center">
+  <a href="https://t.me/carldavmart">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blueviolet?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
-</p>
-
-
-<p align="center">
-	<a href="https://github.com/carldavmart">
-<img src="https://github-readme-stats.vercel.app/api?username=carldavmart&show_icons=true&theme=radical" alt="carldavmart"/>
-	</a>
-</p>
-
- <p align="center"><b>Achievements</b></p>
-<p align="center">
   <a href="https://github.com/carldavmart">
-    <img src="https://github-profile-trophy.vercel.app/?username=carldavmart&margin-w=5&theme=radical" alt="carldavmart" />
-  </a> 
-</p>
-
-<p align="center"><b>Profile Details</b></p
-<a href="https://github.com/carldavmart">
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carldavmart&theme=github_dark" alt="carldavmart" align = "center"/>
-</p>
-</a>
-
-<p align="center"><b>Social</b></p>
-<p align="center">
-  <a aria-label="CarDavMart" href="https://t.me/atlasglory">
-	<img src="https://img.shields.io/badge/Telegram Chat-black%20hat-blueviolet" alt="">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-
-
-<div align="center">
-<a href="https://carldavmart.github.io/">
-			<div>
-				<img src="lema.png" width="650" alt="footer" style="border-radius: 5px;box-shadow: 0px 0px 5px black;"></a>
-			</div>
-</div>
