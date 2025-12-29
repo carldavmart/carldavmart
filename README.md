@@ -33,9 +33,6 @@
 
 Since the old achievements trophy system isn't working, I've switched to streak stats and contribution graphs for a fresh, dynamic look.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carldavmart&theme=hacker&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carldavmart&theme=github_dark" alt="Profile Details" />
